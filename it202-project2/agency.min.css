@@ -279,7 +279,7 @@ header.masthead {
 
     color:#fff;
 
-    
+    background-image:url(../img/header-bg.jpg);
 
     background-repeat:no-repeat;
 
@@ -287,7 +287,7 @@ header.masthead {
 
     background-position:center center;
 
-    background-size:cover
+    background-size:cover;
     
     width: 100%
 
@@ -1137,6 +1137,9 @@ ul.social-buttons li a {
 
 }
 
+.carousel-item {
+    height: 100
+}
 .map {
     height: 30rem;
 }
